@@ -1,6 +1,6 @@
 import React from "react";
 import Hero from "../../Hero";
-import { homeObjOne, homeObjTwo, homeObjThree, homeObjFour } from "./Data";
+import { homeObjOne, homeObjThree } from "./Data";
 import Pricing from "../../Pricing";
 
 function Services() {
